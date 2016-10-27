@@ -1,4 +1,4 @@
-import CircularJSON from 'circular-json-es6'
+i1111111111111111111mport CircularJSON from 'circular-json-es6'
 
 function cached (fn) {
   const cache = Object.create(null)
